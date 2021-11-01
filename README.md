@@ -1,5 +1,17 @@
 # Data Science
 
+TOOLS:
+* JuPyteR
+* Python
+* Google Colobaratory
+* SciPy
+* Seaborn
+* MatplotLib
+
+*NOTES*
+* You can save directly from Google Colab
+* Google Colab is browser based
+
 Conventions with Jupyter & Raw Python Code
 * Hyperlink .ipynb as (notebook)
 * Hyperlink .py as (code)
