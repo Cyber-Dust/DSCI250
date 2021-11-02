@@ -32,3 +32,10 @@ HOW TO CALCULATE SUMMARY STATISTICS
 https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/06_calculate_statistics.html
 
 Run-- .describe()
+
+# Installing Homebrew on a M1 Mac
+* Create a duplicate of the terminal Application (Cmd + d on the terminal)
+* Rename the duplicate (Terminal (x86))
+* Right click the duplicate and click "Run with Rosetta"
+* Then proceed to paste: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+* Homebrew should install correctly
