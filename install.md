@@ -39,3 +39,4 @@ Run-- .describe()
 * Right click the duplicate and click "Run with Rosetta"
 * Then proceed to paste: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 * Homebrew should install correctly
+* use "arch -arm64 brew" (install) to do anything
