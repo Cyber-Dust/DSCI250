@@ -1,5 +1,7 @@
 # Data Science
 
+Soon working on R, SQL, & Matplotlib
+
 TOOLS:
 * JuPyteR
 * Python
