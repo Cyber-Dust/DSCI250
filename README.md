@@ -2,6 +2,8 @@
 
 Soon working on R, SQL, & Matplotlib
 
+Create Data MGMT & Data Analytics Section
+
 TOOLS:
 * JuPyteR
 * Python
